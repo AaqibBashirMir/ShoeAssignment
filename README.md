@@ -1,2 +1,2 @@
 HOSTED LINK:-https://aaqibbashirmir.github.io/ShoeAssignment/ <br>
-REPO LINK:-
+REPO LINK:-https://github.com/AaqibBashirMir/ShoeAssignment
